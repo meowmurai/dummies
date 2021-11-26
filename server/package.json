@@ -7,6 +7,7 @@
   "scripts": {
     "start": "node index",
     "server": "nodemon index.js",
+    "build": "react-scripts build",
     "watch": "node-sass --watch resources/scss --output public/css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
